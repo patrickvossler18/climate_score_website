@@ -21,7 +21,7 @@ sections:
   match: "**/*"
 - type: directory
   path: content/faq
-  label: Faq
+  label: FAQ
   create: all
   match: "**/*"
 - type: directory

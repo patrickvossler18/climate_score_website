@@ -6474,4 +6474,21 @@ a.to-the-top>* {
 		flex: 0 0 50%;
 		max-width: 50%;
 	}
+
 }
+
+.container {
+width: 980px;
+margin: 0 auto;
+}
+
+.content {
+padding-top: 100px;
+margin: 0 auto;
+}
+
+.iframe_container {
+padding: 20px;
+}
+
+
